@@ -1,5 +1,5 @@
-# PBFusionTranscript
-To Identify fusion transcript from PacBio IsoSeq reads and plot in circos
+# PBTranscriptStructure
+To determine the structure of ISO-seq transcripts, icluding altersplicing, APA, fusion transcript, etc.
 
 dependency:
 
