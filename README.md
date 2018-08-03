@@ -15,7 +15,7 @@ circos
 
 output:
 
-<p>
+<p align="center">
   <img src="examplePlots/circos.png" height=200"> &nbsp; &nbsp; &nbsp;
   <img src="examplePlots/isotype.png" height=200"> &nbsp; &nbsp; &nbsp;
   <img src="examplePlots/APA.png" height=200"> &nbsp; &nbsp; &nbsp;
