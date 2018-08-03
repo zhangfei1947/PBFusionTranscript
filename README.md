@@ -16,9 +16,9 @@ circos
 output:
 
 <p align="center">
-  <img src="examplePlots/circos.png" height=200">
-  <img src="examplePlots/isotype.png" height=200">
-  <img src="examplePlots/APA.png" height=200">
-  <img src="examplePlots/AS.png" height=200">
+  <img src="examplePlots/circos.png" height=200"> &nbsp;
+  <img src="examplePlots/isotype.png" height=200"> &nbsp;
+  <img src="examplePlots/APA.png" height=200"> &nbsp;
+  <img src="examplePlots/AS.png" height=200"> &nbsp;
   <img src="examplePlots/isoform_venn.png" height=200">
 </p>
